@@ -1,0 +1,9 @@
+body{
+    color: #666;
+}
+.aaa{
+    width: 900px;
+    height: 1000px;
+    color: #444;
+    border: 1px solid black;
+}
